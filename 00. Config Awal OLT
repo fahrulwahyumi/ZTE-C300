@@ -1,4 +1,4 @@
-Untuk Mikrotik di colok ke 10/100 untuk remote OLT.
+Untuk Mikrotik di colok ke 10/100 untuk remote OLT. 
 Mikrotik yg mengarah ke 10/100 tersebut diberi IP 136.1.1.1/24 lalu coba ping ke 136.1.1.100 ( ip OLT )
 
 Agar dapat terhubung dengan Netnumen maka OLT harus disetting sebagai berikut ( telnet ke 136.1.1.100 dan paste config dibawah ini )
